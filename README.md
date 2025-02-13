@@ -1,6 +1,6 @@
-## Quadro-scrum
+# Quadro-scrum
 
-# Equipe
+## Equipe
 - Ailton Rodrigues Mazullo Neto
 - Igor Ximenes de Oliveira Rocha
 - Pedro Lucas Gomes Nascimento
