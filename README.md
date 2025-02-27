@@ -1,4 +1,4 @@
-# Quadro-scrum
+# Quadro Trello
 
 ## Equipe
 - Ailton Rodrigues Mazullo Neto
