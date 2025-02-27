@@ -37,3 +37,4 @@ O AccessHub não é apenas um sistema de login – ele é uma solução completa
 - Igor Ximenes de Oliveira Rocha
 - Pedro Lucas Gomes Nascimento
 - Yuri Ernani de Albuquerque Ferreira
+- Valmir Klenio de Melo Silva
